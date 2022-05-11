@@ -66,9 +66,13 @@ amplify push
 
 //add Amplify to your xcode project
 
+
 Right clight on your project (with the blue icon beside)
 
+
 Add packages
+![Screenshot 2022-05-11 at 5 47 30 PM](https://user-images.githubusercontent.com/100278023/167821651-c001547d-5716-432b-b111-7c7aa4a81f76.png)
+
 
 Enter package URL: https://github.com/aws-amplify/amplify-ios
 
