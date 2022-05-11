@@ -90,6 +90,7 @@ import AWSCognitoAuthPlugin
 import AWSS3StoragePlugin
 
 
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
@@ -113,10 +114,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             }
         }
 }
+
 ------------------------
 # in your ViewController
 
 //convert your data into json data and print to a json file
+
+
 func getjsonfile(){
         let encodedDictionary = try? JSONEncoder().encode(thedict)
      
