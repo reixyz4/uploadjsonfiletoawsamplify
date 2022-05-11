@@ -184,6 +184,7 @@ I got a lot of help from
 (Article Tutorial) https://www.kiloloco.com/articles/011-uploading-files-from-ios-to-amazon-s3/
 
 2. Setting up workspace and pod installation (the upload to aws part for this tutorial no longer works as some codes have been deprecated)
+
 (Youtube Tutorial) https://www.youtube.com/watch?v=INg_-DCDq9U&t=296s
 
 -----------------
