@@ -119,9 +119,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 # in your ViewController
 
 //convert your data into json data and print to a json file
+func getjsonfile() {
 
-
-func getjsonfile(){
         let encodedDictionary = try? JSONEncoder().encode(thedict)
      
         
