@@ -82,8 +82,11 @@ Select the Amplify, AWSCognitoAuthPlugin, and AWSSS3StoragePlugin package produc
 # in your AppDelegate file
 
 import UIKit
+
 import Amplify
+
 import AWSCognitoAuthPlugin
+
 import AWSS3StoragePlugin
 
 
