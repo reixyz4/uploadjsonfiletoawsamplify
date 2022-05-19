@@ -8,7 +8,7 @@ I had faced difficulties uploading to aws on Xcode and found out that using AWS 
 Assuming you already have your Xcode Project on hand
 
 # On your Mac terminal, enter the codes into your terminal to setup your workspace
-
+```
 
 cd Desktop/youriosproject/ 
 
@@ -158,7 +158,7 @@ func getjsonfile() {
 //the string you input for key will be the name of the file uploaded onto the AWS bucket
 
 //remember to call getjsonfile() somewhere in your code in ViewController
-
+```
 ----------------
 # Things to note if your program fails to build and run
 Click on your Project (with the blue icon on the side)
